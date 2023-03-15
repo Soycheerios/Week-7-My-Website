@@ -1,0 +1,1 @@
+alert("Welcome to Soichiro's first web page!");
